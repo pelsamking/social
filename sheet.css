@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+    gap: 20px;
+}
+.twitter_link{
+    display: flex;
+    flex-direction: column;
+}
+
+.Zuri_team{
+    display: flex;
+    flex-direction: column;
+    grid-area: 20px;
+}
+.python_book{
+    display: flex;
+    flex-direction: column;
+}
